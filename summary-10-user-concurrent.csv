@@ -1,0 +1,19 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,KB/sec,Avg. Bytes
+Login - View thread:Login,100,3202,1834,5756,774.44,0.00%,17.1,8.88,531.6
+Login - View thread:View Project Home,100,32903,465,127295,51359.50,32.00%,.8,1064.03,1406193.6
+Login - View thread:View New Project,100,10193,419,117320,18313.10,9.00%,.6,79.53,138535.3
+Login - View thread:View Archived Project,100,55441,448,133777,49984.31,0.00%,.5,1021.14,2013817.8
+Login - View thread:View Project,100,749,399,3828,481.02,0.00%,.5,0.42,834.2
+Login - View thread:View CRM Contact,100,14909,408,36854,12010.39,0.00%,.5,14.85,33683.3
+Login - View thread:View CRM Business,100,16646,409,41514,13390.47,0.00%,.4,11.14,28577.3
+Login - View thread:View CRM Opportunity,100,939,391,4567,808.30,0.00%,.4,0.20,503.4
+Login - View thread:View CRM MyActivities,100,15857,407,34835,12695.56,0.00%,.4,8.67,24051.6
+Login - View thread:View Bulletin,200,13046,396,38831,13882.97,0.00%,.6,26.81,43515.5
+Login - View thread:View Document,100,45997,18545,107554,29293.33,31.00%,.3,285.62,1011756.3
+Login - View thread:View Dashboard Home,100,21087,371,40080,13603.17,0.00%,.3,45.77,149823.4
+Login - View thread:View Dashboard User Portal,100,19048,380,35260,12197.56,0.00%,.3,23.21,81644.9
+Login - View thread:View Dashboard User History,100,18449,382,36140,12024.50,0.00%,.3,21.78,81644.9
+Login - View thread:View Dashboard Payment History,100,18005,392,32912,11378.27,0.00%,.3,20.25,81644.9
+Login - View thread:View Dashboard Card Subscription,100,19358,388,41865,12605.36,0.00%,.2,16.67,72287.2
+Login - View thread:View Dashboard Hub Store,100,27506,393,50789,18098.21,0.00%,.2,46.97,218391.9
+TOTAL,1800,19243,371,133777,25508.50,4.00%,3.5,1019.58,301719.6
